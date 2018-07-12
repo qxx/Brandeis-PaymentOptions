@@ -1,5 +1,5 @@
 # Flywire使用流程
-本文阅读完毕后，从这个链接开始你的付款： brandeis.flywire.com
+本文阅读完毕后，从这个链接开始你的付款： [brandeis.flywire.com](https://brandeis.flywire.com)
 
 输入金额
 ![Step1][flywire1]
@@ -22,7 +22,9 @@
 最后得到了汇款指示，最下面有pdf链接可以打印出来。
 ![Step7][flywire7]
 
-得到汇款指示后，就可以到自己的银行（大多数银行的网银、APP、柜台均可）办理购汇和电汇了。这里举一个在中国银行的例子：[《中美汇款最方便最便宜的方法之一：银行手机APP汇款介绍》](https://www.uscreditcardguide.com/zhongmeihuikuanzuifangbiandefangfazhiyishoujiapphuikuanjieshao/)
+这是本例生成的汇款指示，供参考。**警告：这不是你的汇款指示，不要真拿去汇了**[Sample Instruction](documents/FlywireInstructions.pdf)
+
+得到汇款指示后，就可以到自己的银行（大多数银行的网银、APP、柜台均可）办理购汇和电汇了。这里参考中国银行手机APP的例子：[《中美汇款最方便最便宜的方法之一：银行手机APP汇款介绍》](https://www.uscreditcardguide.com/zhongmeihuikuanzuifangbiandefangfazhiyishoujiapphuikuanjieshao/)
 
 由于国际电汇有可能经过难以预知的中间行中转并被扣除手续费，建议大家在汇出时比汇款指示上多汇15～30美元。虽然学校网页说不接受额外的钱，但只是几十美元的话没有影响，如有结余会显示在你的学校账户上，下次可以少交一点。
 
