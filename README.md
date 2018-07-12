@@ -34,7 +34,7 @@ https://www.brandeis.edu/student-financial-services/student-accounts/payment.htm
 |选择美元以后的收取的手续费|$30     |$20          |
 |电汇收款银行            |CitiBank|US Bank      |
 
-然而考虑到国际电汇存在中间行扣取中转手续费的问题，从经验来说从中国汇到 CitiBank 更有可能避免中转，从而避免被收额外的中转费用。这样看来两种方式在费用上应该几乎没有区别。
+在此基础上，在办理电汇时，你还有电汇需要的手续费：包括发起银行的手续费、电报费，中间行中转费，具体可以看下面辅助阅读。从经验来说从中国汇到 CitiBank 更有可能避免中转，从而避免被收额外的中转费用。这样看来两种方式在费用上应该几乎没有区别。此外，由于是 Flywire/Western Union 收款，这里不涉及收款银行的 Incoming Wire Transfer Fee。
 
 #### 辅助阅读：
 - 中美间汇款的整体介绍：[《中美汇款方式总结》](https://www.uscreditcardguide.com/transfer-money-from-china-to-america-comparison-and-summary/)
