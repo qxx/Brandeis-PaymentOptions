@@ -22,11 +22,35 @@ https://www.brandeis.edu/student-financial-services/student-accounts/payment.htm
 请使用International Payments中的方式：Flywire Payment和Western Union Payment
 
 - Flywire Payment （[详细过程](Flywire.md)）
-- Western Union Payment（[详细过程](WesternUnion.md)）
+- Western Union Payment（[详细过程](WesternUnion.md)）*（这个西联和银行里的“西联汇款”业务没有任何关系）*
 
 这两者的原理都是它们作为学校的收款代理商，你在它们的网站上生成订单，然后通过人民币转账或美元电汇把钱付给它们。它们均支持人民币和美元付款。但是注意到它们给出的人民币汇率较差，以写本文时为例，中国银行现汇卖出价6.70，而它们给出的人民币相当于6.8左右，对于20000美元来说就是2000人民币的差距，远远超过选择美元、自己购汇、最后办理电汇的手续费。
 
 如果你在国内银行办理购汇和电汇（网银、APP、柜台均可）没有困难的话，这里建议选择美元方式，然后自己购汇、电汇。
+
+---
+
+***警告：** 务必在汇款备注（给收款人的附言，不是给外管局的汇款用途和说明）中写上汇款指示上的一串编号（Reference/Payment ID），不然Flywire/WU怎么知道钱应该给谁。如果真的忘记了，尽快联系Flywrie/WU客服。*
+
+---
+
+#### 电汇中可能遇到的问题: 见[FAQ](faq.md)
+
+- 在银行办理电汇时，费用承担方式无法选择OUR
+
+- 因政策原因，银行不支持汇款到金融机构（Flywire/WU），或者提示需要审核
+
+- 那现在到底什么银行能汇
+
+- 汇出以后多久到账
+
+- Flywire/WU的汇款指示过期了怎么办
+
+- 填好了Flywire/WU，又不想给他们汇款了怎么办
+
+- 一开始填了Flywire/WU中的一家，换主意想用另一家怎么办
+
+- 中转费用预估有误差，最后到账金额和实际学费不一样怎么办
 
 #### Flywire与Western Union美元付款方式的简单对比：
 |                      |Flywire |Western Union|
@@ -50,7 +74,7 @@ https://www.brandeis.edu/student-financial-services/student-accounts/payment.htm
 
 #### 易思汇
 
-大家可能看过这篇推送：([BC3微信公众号](https://mp.weixin.qq.com/s/0VT4LxGFsvEDKfU4bP4UmQ))，介绍很丰富，但是隐瞒了最实惠的方法：在Flywire或Western Union上选择美元，然后自己办理购汇和电汇。
+大家可能看过这篇推送：([BC3微信公众号关于易思汇的推送](https://mp.weixin.qq.com/s/0VT4LxGFsvEDKfU4bP4UmQ))，介绍很丰富，但是隐瞒了最实惠的方法：在Flywire或Western Union上选择美元，然后自己办理购汇和电汇。
 
 但是放心，易思汇是一个正规、靠谱的汇款方式，不少学长学姐都用过。相当于把购汇、电汇打包，你付人民币，它帮你把美元汇到你要付的地方。由于学校今年不接受直接汇到学校的 JP Morgan 账户，易思汇今年推荐的是在Western Union上选择美元、打印出instraction后再交给他们处理。他们有中文客服，交流很方便。
 
