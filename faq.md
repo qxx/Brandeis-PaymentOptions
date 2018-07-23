@@ -35,4 +35,4 @@
 
 ### 中转费用预估有误差，最后到账金额和实际学费不一样怎么办：
   - 多了：没事，会记在账上，下个学期交学费的时候可以相应少交了
-  - 少了：用信用卡补上，参考最上面“E-check”中Credit Card的方式。到Sage（https://www.brandeis.edu/sage/） 或  [brandeis.afford.com](https://brandeis.afford.com)用信用卡付款。
+  - 少了：用信用卡补上，参考最上面“E-check”中Credit Card的方式。到Sage（[https://www.brandeis.edu/sage/](https://www.brandeis.edu/sage/)） 或  [brandeis.afford.com](https://brandeis.afford.com)用信用卡付款。

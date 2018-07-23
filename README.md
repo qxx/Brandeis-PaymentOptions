@@ -13,7 +13,7 @@ https://www.brandeis.edu/student-financial-services/student-accounts/payment.htm
 >
 > Credit cards accepted are Discover, MasterCard, Visa and American Express (fees do apply for credit card payments).  No fees apply to the direct withdrawal from checking/savings accounts (e-check). E-check payments returned unpaid by your bank are subject to the $30 returned check fee.
 
-由于使用信用卡有额外手续费，这里建议使用 Checking/Savings 账户。到 Sage（https://www.brandeis.edu/sage/） 或 [brandeis.afford.com](https://brandeis.afford.com) 输入你的Checking或Savings Account的Account Number和Routing Number即可，没有手续费。由于美国银行转账的非实时性，务必确保账户内有足够余额。在美国，余额不足不仅没有提示并且还会加收额外手续费/罚款。
+由于使用信用卡有额外手续费，这里建议使用 Checking/Savings 账户。到 Sage（[https://www.brandeis.edu/sage/](https://www.brandeis.edu/sage/)） 或 [brandeis.afford.com](https://brandeis.afford.com) 输入你的Checking或Savings Account的Account Number和Routing Number即可，没有手续费。由于美国银行转账的非实时性，务必确保账户内有足够余额。在美国，余额不足不仅没有提示并且还会加收额外手续费/罚款。
 
 以在 brandeis.afford.com 上使用 E-check 为例：（[详细过程](Echeck.md)）
 
